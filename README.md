@@ -1,14 +1,13 @@
 # npm-statistics
 
-![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FClearTax%2Fnpm-statistics%2Fmaster%2Fstats.json)
+![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fnpm-statistics%2Fmaster%2Fstats.json)
 
-NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
+NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 
 ## Downloads
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-
 | Name                        | Downloads |
 | --------------------------- | --------- |
 | `post-merge-install`        | 3305      |
@@ -31,7 +30,6 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | `enpmjs`                    | 54        |
 | `props-validator`           | 48        |
 | **Sum**                     | **12001** |
-
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
