@@ -11,27 +11,27 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 | Name                        | Downloads |
 | --------------------------- | --------- |
 | `post-merge-install`        | 3537      |
-| `@cleartax/zoids`           | 2439      |
-| `good-first-issue`          | 2186      |
-| `engines-ok`                | 1903      |
-| `types-directory`           | 1335      |
+| `@cleartax/zoids`           | 2462      |
+| `good-first-issue`          | 2187      |
+| `engines-ok`                | 1904      |
+| `types-directory`           | 1402      |
 | `install-types`             | 1234      |
-| `npmtotal`                  | 1226      |
+| `npmtotal`                  | 1232      |
 | `web-workers`               | 787       |
-| `prepublish-ok`             | 559       |
+| `prepublish-ok`             | 560       |
 | `props-validator`           | 231       |
 | `@arrant/button`            | 229       |
 | `clean-node`                | 221       |
 | `@arrant/theme`             | 204       |
 | `check-web-workers-support` | 192       |
 | `ipopen`                    | 160       |
-| `@rabbitsm/rsm`             | 119       |
+| `@rabbitsm/rsm`             | 120       |
 | `authorer`                  | 115       |
 | `dumbbell`                  | 78        |
 | `check-support`             | 73        |
 | `goandget`                  | 68        |
 | `enpmjs`                    | 54        |
-| **Sum**                     | **16950** |
+| **Sum**                     | **17050** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
