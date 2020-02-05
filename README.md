@@ -10,27 +10,27 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                        | Downloads |
 | --------------------------- | --------- |
-| `post-merge-install`        | 3540      |
-| `@cleartax/zoids`           | 2466      |
-| `good-first-issue`          | 2188      |
-| `engines-ok`                | 1907      |
-| `types-directory`           | 1465      |
-| `npmtotal`                  | 1246      |
-| `web-workers`               | 787       |
-| `prepublish-ok`             | 566       |
-| `props-validator`           | 233       |
+| `post-merge-install`        | 3549      |
+| `@cleartax/zoids`           | 2531      |
+| `good-first-issue`          | 2191      |
+| `engines-ok`                | 1926      |
+| `types-directory`           | 1501      |
+| `npmtotal`                  | 1254      |
+| `web-workers`               | 788       |
+| `prepublish-ok`             | 570       |
+| `props-validator`           | 238       |
 | `@arrant/button`            | 229       |
 | `clean-node`                | 223       |
 | `@arrant/theme`             | 204       |
 | `check-web-workers-support` | 193       |
-| `ipopen`                    | 160       |
+| `ipopen`                    | 161       |
 | `@rabbitsm/rsm`             | 120       |
 | `authorer`                  | 116       |
-| `dumbbell`                  | 78        |
+| `dumbbell`                  | 79        |
 | `check-support`             | 74        |
-| `goandget`                  | 68        |
-| `enpmjs`                    | 54        |
-| **Sum**                     | **15917** |
+| `goandget`                  | 69        |
+| `enpmjs`                    | 55        |
+| **Sum**                     | **16071** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
