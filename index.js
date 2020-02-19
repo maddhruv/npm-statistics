@@ -15,10 +15,13 @@ if (!key) {
 
 (async () => {
   const stats = await npmtotal(key, {
-    startDate: '2015-08-01'
+    startDate: "2015-08-01"
   });
 
-  const sortedStats = stats.stats
+  const sortedStats = stats.stats.map(package => {
+    const [name, count] = package;
+    return [`[${name}](https://www.npmjs.com/package/${name})`, count];
+  });
 
   badgeStats.message = `${stats.sum} Downloads`;
 

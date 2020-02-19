@@ -8,6 +8,7 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
+
 | Name                      | Downloads |
 | ------------------------- | --------- |
 | good-first-issue          | 6057      |
@@ -33,6 +34,7 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 | enpmjs                    | 57        |
 | clean-deps                | 23        |
 | **Sum**                   | **26038** |
+
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
