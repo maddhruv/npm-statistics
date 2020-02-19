@@ -15,7 +15,7 @@ if (!key) {
 
 (async () => {
   const stats = await npmtotal(key, {
-    startDate: '2019-06-03'
+    startDate: '2015-08-01'
   });
 
   const sortedStats = stats.stats

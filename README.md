@@ -8,31 +8,31 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                        | Downloads |
-| --------------------------- | --------- |
-| `post-merge-install`        | 3855      |
-| `@cleartax/zoids`           | 3074      |
-| `engines-ok`                | 2450      |
-| `types-directory`           | 2339      |
-| `good-first-issue`          | 2210      |
-| `install-types`             | 1598      |
-| `npmtotal`                  | 1304      |
-| `web-workers`               | 791       |
-| `prepublish-ok`             | 613       |
-| `props-validator`           | 383       |
-| `@arrant/button`            | 231       |
-| `clean-node`                | 227       |
-| `@arrant/theme`             | 206       |
-| `check-web-workers-support` | 195       |
-| `ipopen`                    | 166       |
-| `@rabbitsm/rsm`             | 121       |
-| `authorer`                  | 117       |
-| `dumbbell`                  | 88        |
-| `check-support`             | 75        |
-| `goandget`                  | 70        |
-| `enpmjs`                    | 57        |
-| `clean-deps`                | 0         |
-| **Sum**                     | **20170** |
+| Name                      | Downloads |
+| ------------------------- | --------- |
+| good-first-issue          | 6057      |
+| post-merge-install        | 3912      |
+| @cleartax/zoids           | 3122      |
+| engines-ok                | 2527      |
+| types-directory           | 2413      |
+| install-types             | 1627      |
+| npmtotal                  | 1312      |
+| web-workers               | 792       |
+| prepublish-ok             | 623       |
+| clean-node                | 599       |
+| @arrant/button            | 517       |
+| @rabbitsm/rsm             | 490       |
+| @arrant/theme             | 450       |
+| props-validator           | 411       |
+| authorer                  | 322       |
+| check-web-workers-support | 195       |
+| dumbbell                  | 189       |
+| ipopen                    | 166       |
+| goandget                  | 159       |
+| check-support             | 75        |
+| enpmjs                    | 57        |
+| clean-deps                | 23        |
+| **Sum**                   | **26038** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?

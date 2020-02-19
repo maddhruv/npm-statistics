@@ -23,7 +23,7 @@
     "markdown-table": "^1.1.3",
     "node-fetch": "^2.6.0"
   },
-  "npm-author": "maddhruv",
+  "npm-stats": "maddhruv",
   "dependencies": {
     "npmtotal": "^1.4.0"
   }
