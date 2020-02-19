@@ -8,30 +8,31 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-
 | Name                        | Downloads |
 | --------------------------- | --------- |
-| `post-merge-install`        | 3322      |
-| `good-first-issue`          | 2131      |
-| `@cleartax/zoids`           | 1854      |
-| `engines-ok`                | 1456      |
-| `web-workers`               | 785       |
-| `types-directory`           | 560       |
-| `prepublish-ok`             | 496       |
-| `@arrant/button`            | 221       |
-| `clean-node`                | 208       |
-| `@arrant/theme`             | 197       |
-| `check-web-workers-support` | 192       |
-| `ipopen`                    | 160       |
-| `@rabbitsm/rsm`             | 115       |
-| `authorer`                  | 109       |
-| `dumbbell`                  | 74        |
-| `check-support`             | 73        |
-| `goandget`                  | 64        |
-| `props-validator`           | 62        |
-| `enpmjs`                    | 54        |
-| **Sum**                     | **12133** |
-
+| `post-merge-install`        | 3855      |
+| `@cleartax/zoids`           | 3074      |
+| `engines-ok`                | 2450      |
+| `types-directory`           | 2339      |
+| `good-first-issue`          | 2210      |
+| `install-types`             | 1598      |
+| `npmtotal`                  | 1304      |
+| `web-workers`               | 791       |
+| `prepublish-ok`             | 613       |
+| `props-validator`           | 383       |
+| `@arrant/button`            | 231       |
+| `clean-node`                | 227       |
+| `@arrant/theme`             | 206       |
+| `check-web-workers-support` | 195       |
+| `ipopen`                    | 166       |
+| `@rabbitsm/rsm`             | 121       |
+| `authorer`                  | 117       |
+| `dumbbell`                  | 88        |
+| `check-support`             | 75        |
+| `goandget`                  | 70        |
+| `enpmjs`                    | 57        |
+| `clean-deps`                | 0         |
+| **Sum**                     | **20170** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
