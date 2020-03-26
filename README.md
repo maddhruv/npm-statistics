@@ -10,17 +10,17 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads |
 | ------------------------------------------------------------------------------------ | --------- |
-| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 6097      |
-| [@cleartax/zoids](https://www.npmjs.com/package/@cleartax/zoids)                     | 5477      |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 4880      |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 4842      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 3631      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 2277      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 1446      |
-| [props-validator](https://www.npmjs.com/package/props-validator)                     | 1225      |
+| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 6099      |
+| [@cleartax/zoids](https://www.npmjs.com/package/@cleartax/zoids)                     | 5554      |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 4934      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 4868      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 3655      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 2300      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 1450      |
+| [props-validator](https://www.npmjs.com/package/props-validator)                     | 1259      |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 828       |
-| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 808       |
-| [clean-node](https://www.npmjs.com/package/clean-node)                               | 613       |
+| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 815       |
+| [clean-node](https://www.npmjs.com/package/clean-node)                               | 614       |
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 535       |
 | [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 504       |
 | [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 467       |
@@ -31,10 +31,10 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 | [goandget](https://www.npmjs.com/package/goandget)                                   | 170       |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 85        |
 | [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 81        |
-| [enpmjs](https://www.npmjs.com/package/enpmjs)                                       | 68        |
-| [median-age](https://www.npmjs.com/package/median-age)                               | 66        |
-| [clean-deps](https://www.npmjs.com/package/clean-deps)                               | 53        |
-| **Sum**                                                                              | **35104** |
+| [enpmjs](https://www.npmjs.com/package/enpmjs)                                       | 69        |
+| [median-age](https://www.npmjs.com/package/median-age)                               | 69        |
+| [clean-deps](https://www.npmjs.com/package/clean-deps)                               | 54        |
+| **Sum**                                                                              | **35361** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
