@@ -10,31 +10,31 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads |
 | ------------------------------------------------------------------------------------ | --------- |
-| [@cleartax/zoids](https://www.npmjs.com/package/@cleartax/zoids)                     | 10083     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 9082      |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 6818      |
+| [@cleartax/zoids](https://www.npmjs.com/package/@cleartax/zoids)                     | 10117     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 9147      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 6830      |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 6143      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 5197      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 3727      |
-| [props-validator](https://www.npmjs.com/package/props-validator)                     | 2971      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 1617      |
-| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 989       |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 5207      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 3750      |
+| [props-validator](https://www.npmjs.com/package/props-validator)                     | 2981      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 1620      |
+| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 994       |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 838       |
 | [clean-node](https://www.npmjs.com/package/clean-node)                               | 622       |
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 548       |
 | [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 507       |
 | [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 479       |
-| [authorer](https://www.npmjs.com/package/authorer)                                   | 339       |
+| [authorer](https://www.npmjs.com/package/authorer)                                   | 340       |
 | [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 236       |
 | [check-web-workers-support](https://www.npmjs.com/package/check-web-workers-support) | 212       |
-| [ipopen](https://www.npmjs.com/package/ipopen)                                       | 185       |
-| [goandget](https://www.npmjs.com/package/goandget)                                   | 174       |
+| [ipopen](https://www.npmjs.com/package/ipopen)                                       | 186       |
+| [goandget](https://www.npmjs.com/package/goandget)                                   | 175       |
 | [median-age](https://www.npmjs.com/package/median-age)                               | 99        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 89        |
 | [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 87        |
-| [enpmjs](https://www.npmjs.com/package/enpmjs)                                       | 73        |
+| [enpmjs](https://www.npmjs.com/package/enpmjs)                                       | 74        |
 | [clean-deps](https://www.npmjs.com/package/clean-deps)                               | 67        |
-| **Sum**                                                                              | **51182** |
+| **Sum**                                                                              | **51348** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
