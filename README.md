@@ -10,19 +10,19 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 51037      |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 42483      |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 51047      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 42842      |
 | [rice](https://www.npmjs.com/package/rice)                                           | 17549      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 16427      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 16136      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 8937       |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 16452      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 16161      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 8943       |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 7436       |
-| [props-validator](https://www.npmjs.com/package/props-validator)                     | 4735       |
-| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2077       |
-| [gst-states](https://www.npmjs.com/package/gst-states)                               | 1974       |
+| [props-validator](https://www.npmjs.com/package/props-validator)                     | 4740       |
+| [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2079       |
+| [gst-states](https://www.npmjs.com/package/gst-states)                               | 1983       |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 1459       |
 | [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 1128       |
-| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 998        |
+| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 1001       |
 | [clean-node](https://www.npmjs.com/package/clean-node)                               | 830        |
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 727        |
 | [types-sync](https://www.npmjs.com/package/types-sync)                               | 637        |
@@ -35,11 +35,11 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 | [clean-deps](https://www.npmjs.com/package/clean-deps)                               | 244        |
 | [enpmjs](https://www.npmjs.com/package/enpmjs)                                       | 224        |
 | [median-age](https://www.npmjs.com/package/median-age)                               | 172        |
-| [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 166        |
+| [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 167        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 164        |
 | [console.gif](https://www.npmjs.com/package/console.gif)                             | 139        |
-| [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 131        |
-| **Sum**                                                                              | **178486** |
+| [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 132        |
+| **Sum**                                                                              | **178932** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
