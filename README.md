@@ -10,12 +10,12 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 64319      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 64387      |
 | [types-directory](https://www.npmjs.com/package/types-directory)                     | 53012      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 17906      |
-| [rice](https://www.npmjs.com/package/rice)                                           | 17606      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 17279      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 9595       |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 17907      |
+| [rice](https://www.npmjs.com/package/rice)                                           | 17607      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 17281      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 9606       |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 7717       |
 | [props-validator](https://www.npmjs.com/package/props-validator)                     | 4984       |
 | [gst-states](https://www.npmjs.com/package/gst-states)                               | 2478       |
@@ -38,8 +38,8 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 | [installed-dependencies](https://www.npmjs.com/package/installed-dependencies)       | 224        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 212        |
 | [console.gif](https://www.npmjs.com/package/console.gif)                             | 197        |
-| [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 192        |
-| **Sum**                                                                              | **208489** |
+| [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 193        |
+| **Sum**                                                                              | **208573** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
