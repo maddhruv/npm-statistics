@@ -10,28 +10,28 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 74200      |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 53911      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 18520      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 17734      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 74737      |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 53915      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 18563      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 17777      |
 | [rice](https://www.npmjs.com/package/rice)                                           | 17614      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 9986       |
-| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 7818       |
-| [props-validator](https://www.npmjs.com/package/props-validator)                     | 5087       |
-| [gst-states](https://www.npmjs.com/package/gst-states)                               | 2638       |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 9997       |
+| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 7819       |
+| [props-validator](https://www.npmjs.com/package/props-validator)                     | 5090       |
+| [gst-states](https://www.npmjs.com/package/gst-states)                               | 2643       |
 | [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2236       |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 1655       |
 | [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 1385       |
-| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 1289       |
-| [types-sync](https://www.npmjs.com/package/types-sync)                               | 928        |
-| [clean-node](https://www.npmjs.com/package/clean-node)                               | 912        |
-| [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 855        |
-| [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 745        |
-| [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 672        |
-| [authorer](https://www.npmjs.com/package/authorer)                                   | 538        |
+| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 1295       |
+| [types-sync](https://www.npmjs.com/package/types-sync)                               | 955        |
+| [clean-node](https://www.npmjs.com/package/clean-node)                               | 917        |
+| [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 856        |
+| [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 746        |
+| [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 678        |
+| [authorer](https://www.npmjs.com/package/authorer)                                   | 540        |
 | [ipopen](https://www.npmjs.com/package/ipopen)                                       | 486        |
 | [check-web-workers-support](https://www.npmjs.com/package/check-web-workers-support) | 407        |
-| [clean-deps](https://www.npmjs.com/package/clean-deps)                               | 304        |
+| [clean-deps](https://www.npmjs.com/package/clean-deps)                               | 305        |
 | [goandget](https://www.npmjs.com/package/goandget)                                   | 302        |
 | [enpmjs](https://www.npmjs.com/package/enpmjs)                                       | 282        |
 | [median-age](https://www.npmjs.com/package/median-age)                               | 236        |
@@ -39,7 +39,7 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 | [check-support](https://www.npmjs.com/package/check-support)                         | 218        |
 | [console.gif](https://www.npmjs.com/package/console.gif)                             | 206        |
 | [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 202        |
-| **Sum**                                                                              | **221596** |
+| **Sum**                                                                              | **222292** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
