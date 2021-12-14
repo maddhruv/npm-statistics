@@ -10,19 +10,19 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 107673     |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 107850     |
 | [types-directory](https://www.npmjs.com/package/types-directory)                     | 55300      |
 | [install-types](https://www.npmjs.com/package/install-types)                         | 20105      |
 | [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 18974      |
 | [rice](https://www.npmjs.com/package/rice)                                           | 17643      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 12510      |
-| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 8001       |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 12527      |
+| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 8003       |
 | [props-validator](https://www.npmjs.com/package/props-validator)                     | 5392       |
 | [gst-states](https://www.npmjs.com/package/gst-states)                               | 3194       |
 | [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2281       |
-| [types-sync](https://www.npmjs.com/package/types-sync)                               | 1851       |
+| [types-sync](https://www.npmjs.com/package/types-sync)                               | 1857       |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 1742       |
-| [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 1518       |
+| [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 1519       |
 | [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 1512       |
 | [clean-node](https://www.npmjs.com/package/clean-node)                               | 944        |
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 896        |
@@ -40,7 +40,7 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 | [console.gif](https://www.npmjs.com/package/console.gif)                             | 223        |
 | [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 217        |
 | [banks](https://www.npmjs.com/package/banks)                                         | 49         |
-| **Sum**                                                                              | **264695** |
+| **Sum**                                                                              | **264898** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
