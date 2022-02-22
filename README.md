@@ -10,12 +10,12 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 136737     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 56290      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 21036      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 136805     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 56346      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 21092      |
 | [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 19358      |
 | [rice](https://www.npmjs.com/package/rice)                                           | 17666      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 15084      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 15103      |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 8262       |
 | [props-validator](https://www.npmjs.com/package/props-validator)                     | 5491       |
 | [gst-states](https://www.npmjs.com/package/gst-states)                               | 3559       |
@@ -39,8 +39,8 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 | [console.gif](https://www.npmjs.com/package/console.gif)                             | 240        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 237        |
 | [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 231        |
-| [banks](https://www.npmjs.com/package/banks)                                         | 68         |
-| **Sum**                                                                              | **300752** |
+| [banks](https://www.npmjs.com/package/banks)                                         | 82         |
+| **Sum**                                                                              | **300965** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
