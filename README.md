@@ -10,22 +10,22 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 185021     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 59207      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 23071      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 19752      |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 18267      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 186209     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 59222      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 23123      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 19766      |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 18306      |
 | [rice](https://www.npmjs.com/package/rice)                                           | 17691      |
-| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 8624       |
-| [props-validator](https://www.npmjs.com/package/props-validator)                     | 5601       |
-| [gst-states](https://www.npmjs.com/package/gst-states)                               | 3985       |
-| [types-sync](https://www.npmjs.com/package/types-sync)                               | 3370       |
+| [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 8626       |
+| [props-validator](https://www.npmjs.com/package/props-validator)                     | 5602       |
+| [gst-states](https://www.npmjs.com/package/gst-states)                               | 3989       |
+| [types-sync](https://www.npmjs.com/package/types-sync)                               | 3383       |
 | [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2421       |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 2057       |
 | [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 1867       |
-| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 1777       |
+| [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 1788       |
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 1059       |
-| [clean-node](https://www.npmjs.com/package/clean-node)                               | 1052       |
+| [clean-node](https://www.npmjs.com/package/clean-node)                               | 1054       |
 | [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 912        |
 | [@rabbitsm/rsm](https://www.npmjs.com/package/@rabbitsm/rsm)                         | 764        |
 | [authorer](https://www.npmjs.com/package/authorer)                                   | 634        |
@@ -40,7 +40,7 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 | [nse-companies](https://www.npmjs.com/package/nse-companies)                         | 277        |
 | [check-support](https://www.npmjs.com/package/check-support)                         | 267        |
 | [banks](https://www.npmjs.com/package/banks)                                         | 119        |
-| **Sum**                                                                              | **360883** |
+| **Sum**                                                                              | **362224** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
