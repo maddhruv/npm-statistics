@@ -10,20 +10,20 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                 | Downloads  |
 | ------------------------------------------------------------------------------------ | ---------- |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 423111     |
-| [types-directory](https://www.npmjs.com/package/types-directory)                     | 109862     |
-| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 41061      |
-| [install-types](https://www.npmjs.com/package/install-types)                         | 36575      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 24066      |
+| [post-merge-install](https://www.npmjs.com/package/post-merge-install)               | 423293     |
+| [types-directory](https://www.npmjs.com/package/types-directory)                     | 109878     |
+| [npmtotal](https://www.npmjs.com/package/npmtotal)                                   | 41074      |
+| [install-types](https://www.npmjs.com/package/install-types)                         | 36591      |
+| [engines-ok](https://www.npmjs.com/package/engines-ok)                               | 24078      |
 | [rice](https://www.npmjs.com/package/rice)                                           | 17840      |
-| [types-sync](https://www.npmjs.com/package/types-sync)                               | 17251      |
+| [types-sync](https://www.npmjs.com/package/types-sync)                               | 17255      |
 | [good-first-issue](https://www.npmjs.com/package/good-first-issue)                   | 10522      |
-| [gst-states](https://www.npmjs.com/package/gst-states)                               | 8558       |
+| [gst-states](https://www.npmjs.com/package/gst-states)                               | 8573       |
 | [props-validator](https://www.npmjs.com/package/props-validator)                     | 6133       |
 | [web-workers](https://www.npmjs.com/package/web-workers)                             | 3109       |
 | [prepublish-ok](https://www.npmjs.com/package/prepublish-ok)                         | 2953       |
 | [dumbbell](https://www.npmjs.com/package/dumbbell)                                   | 2673       |
-| [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 2390       |
+| [gatsby-transform-link](https://www.npmjs.com/package/gatsby-transform-link)         | 2393       |
 | [@arrant/button](https://www.npmjs.com/package/@arrant/button)                       | 1478       |
 | [clean-node](https://www.npmjs.com/package/clean-node)                               | 1394       |
 | [@arrant/theme](https://www.npmjs.com/package/@arrant/theme)                         | 1255       |
@@ -43,7 +43,7 @@ NPM Download Statistics for maddhruv's Open Source Projects. Updated Daily.
 | [loading-messages](https://www.npmjs.com/package/loading-messages)                   | 316        |
 | [banks](https://www.npmjs.com/package/banks)                                         | 268        |
 | [package-script-utils](https://www.npmjs.com/package/package-script-utils)           | 123        |
-| **Sum**                                                                              | **718816** |
+| **Sum**                                                                              | **719077** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
